@@ -18,7 +18,7 @@ secure, tamper-proof, and automated deposit handling.
 - Create a user-friendly frontend for tenants and landlords.
 
 ## 5. Contract Address
-Deployed Contract Address: `ST1234567890LANDLORDADDRESS`
+Deployed Contract Address: `ST3CHCNAK2CZXCN1MVEXQ4F0D16FR4VTDQPTX9E3E.simple-rental-contract`
 
 <img width="1919" height="1051" alt="image" src="https://github.com/user-attachments/assets/ef91c369-39db-4661-a6d3-dd386a617f9b" />
 
