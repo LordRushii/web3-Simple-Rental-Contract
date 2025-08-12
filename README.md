@@ -19,3 +19,6 @@ secure, tamper-proof, and automated deposit handling.
 
 ## 5. Contract Address
 Deployed Contract Address: `ST1234567890LANDLORDADDRESS`
+
+<img width="1919" height="1051" alt="image" src="https://github.com/user-attachments/assets/ef91c369-39db-4661-a6d3-dd386a617f9b" />
+
